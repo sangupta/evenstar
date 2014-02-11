@@ -1,0 +1,16 @@
+Evenstar has been built with all the love by Sandeep Gupta. http://sangupta.com
+ 
+/**
+ * Thanks
+ */
+ 
+To all the wonderful users out there.
+
+/**
+ * Site
+ */
+
+Language: English
+Doctype: HTML5
+IDE: Eclipse
+Technology: Java
